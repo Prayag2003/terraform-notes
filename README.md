@@ -94,6 +94,10 @@ The Terraform workflow represents the core operational model of how Terraform tr
 }
 ```
 
+## You can find the complete Terraform configuration in the [local.tf](./Terraform/root/terraform-local-file/local.tf) file.
+
+![alt text](images/image-tf.png)
+
 ---
 
 ### Terraform Workflow Steps:
